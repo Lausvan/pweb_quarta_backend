@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: pweb
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Acer
+Implementation-Vendor-Id: br.unisul.pweb.quarta
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/pweb
+Created-By: Maven Integration for Eclipse
+
